@@ -1,0 +1,105 @@
+body {
+	background-image: url(../img/space.gif);
+	background-color: pink;
+	font-size: 28px;
+	font-weight: bold;
+	margin: 0;
+	color: white;
+
+
+font-family: 'Berkshire Swash', cursive;
+
+}
+
+html, p, h1, h2 {
+	margin:0;
+}
+
+img{
+height: 400px;
+width: 400px;
+-webkit-box-shadow: 13px 13px 0px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 7px 7px 0px 1px rgba(0,0,0,0.75);
+box-shadow: 7px 7px 0px 1px rgba(0,0,0,0.75);
+}
+
+
+.first-p {
+	color: red;
+}
+
+.second-p {
+
+	color: green;
+
+};
+
+.purple{
+	background-color: purple;
+}
+
+.goodbye {
+
+	background-color: orange;
+	text-align: center;
+}
+
+.background-img{
+
+	background-image: url(../img/Ecco-Domani-Summer-Cinemagraph-980px.gif);
+	height: 100vh;
+	background-size: cover;
+	background-color: transparent;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+
+
+}
+
+
+.end {
+
+	background-color: transparent;
+	text-align: center;
+	color: white; 
+}
+
+.text-header{
+
+background-color: transparent;
+color: black;
+text-align: center;
+}
+.facebook{
+
+color: blue;
+font-size: 100px;
+
+}
+
+.orange {
+	color: orange;
+	background-color: blue;
+}
+
+.purple {
+	background-color: purple;
+}
+.green{
+	color: green;
+	background-color: yellow;
+}
+
+.six{
+
+background-color: orange;
+}
+
+.six2{
+	background-color: red;
+}
+
+.con{
+	color: white;
+}
